@@ -1,6 +1,7 @@
 anyascii==0.3.2
 cached_path
 cn2an==0.5.23
+click==8.2.1
 eng_to_ipa==0.0.2
 fugashi==1.5.1
 g2p_en==2.1.0
